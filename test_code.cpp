@@ -5,6 +5,7 @@ using namespace std;
 void kevin()
 {
 	cout << "Kevin Rocks!" << endl;
+	cout << "Duncan was Here" << endl;
 }
 
 int main()
