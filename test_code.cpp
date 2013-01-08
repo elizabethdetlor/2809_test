@@ -1,16 +1,19 @@
 #include <iostream>
 
 using namespace std;
+// testing ftw
 
-void kevin()
+
+void Kevin()
 {
 	cout << "Kevin Rocks!" << endl;
 	cout << "Duncan was Here" << endl;
+	cout << "Easton was Here" << endl;
 }
 
 int main()
 {
-	kevin();
+	Kevin();
 
 	return 0;
 }
